@@ -3,7 +3,7 @@
 int func(){
   return 5;  
 }
-void main() {
+void main() { 
   
     print(func());
 }
